@@ -1,0 +1,1 @@
+O inteiro não possui ponto flutuante, diferente do float. Já o double é mais preciso que o float.
