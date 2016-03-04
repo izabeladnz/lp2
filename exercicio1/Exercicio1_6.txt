@@ -1,0 +1,1 @@
+Basicamente, a diferença entre os itens 1, 2 e 3 é: o item 1 não possui ponto flutuante, o dois sim. E o item 2 não é tão preciso quanto o item 3, que é double.
